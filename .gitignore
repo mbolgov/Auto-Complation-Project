@@ -1,0 +1,10 @@
+*.py[cod]
+.web
+*.db
+assets/external/
+.states
+__pycache__/
+
+assets/
+auto_completion_app/data/
+.idea/
